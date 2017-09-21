@@ -1,0 +1,1 @@
+# polycon-cqrs-workshop
